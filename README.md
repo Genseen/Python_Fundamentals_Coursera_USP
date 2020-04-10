@@ -1,3 +1,3 @@
 # Python_Fundamentals_Coursera_USP
 
-TESTE
+Curso sobre fundamentos de programação em Python.
