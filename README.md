@@ -1,4 +1,20 @@
 # Python_Fundamentals_Coursera_USP
 
-Curso da plataforma Coursera e fornecido pela Universidade de São Paulo sobre fundamentos de programação na linguagem Python.
+Curso fornecido pela USP na plataforma Coursera sobre fundamentos de programação na linguagem Python.
+
+Aula 01: Introdução ao Python
+
+Aula 02: Condicionais - if...else
+
+Aula 03: Repetição - while
+
+Aula 04: Funções
+
+Aula 05: Depuração e refatoração
+
+Aula 06: Repetições Encaixadas
+
+Aula 07: Listas
+
+Aula 08: Mais sobre listas
 
