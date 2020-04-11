@@ -1,3 +1,4 @@
 # Python_Fundamentals_Coursera_USP
 
-Curso sobre fundamentos de programação em Python.
+Curso da plataforma Coursera e fornecido pela Universidade de São Paulo sobre fundamentos de programação na linguagem Python.
+
