@@ -1,4 +1,4 @@
-# Python_Fundamentals_Coursera_USP
+# Descrição do curso e tópicos
 
 Curso fornecido pela USP na plataforma Coursera sobre fundamentos de programação na linguagem Python.
 
