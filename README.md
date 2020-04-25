@@ -16,5 +16,3 @@ Curso fornecido pela USP na plataforma Coursera sobre fundamentos de programa√ß√
 
 **Aula 07**: Listas
 
-**Aula 08**: Mais sobre listas
-
